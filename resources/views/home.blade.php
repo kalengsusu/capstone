@@ -18,16 +18,12 @@
         <img src="/img/logo.png" alt="Deskripsi gambar" width="100">
         <h1>TUS Mart</h1>
     </header>
-        <nav>
-            <a href="#">Beranda</a>
-            <a href="#">Tentang Kami</a>
-            <a href="#">Produk</a>
-            <a href="#">Kontak</a>
-        </nav>
+        <h2 class="head">
+            Produk
+        </h2>
 
     <main class="container">
         <section class="produk">
-            <h2>Produk Terbaru</h2>
             <div class="produk-list">
                 <div class="produk-item">
                     <img src="produk1.jpg" alt="Produk 1">
