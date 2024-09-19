@@ -8,14 +8,14 @@
 </head>
 <body>
     <div class="cart">
-        <a href="#"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-cart" viewBox="0 0 16 16">
+        <a href="/cart"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-cart" viewBox="0 0 16 16">
             <path d="M0 1.5A.5.5 0 0 1 .5 1H2a.5.5 0 0 1 .485.379L2.89 3H14.5a.5.5 0 0 1 .491.592l-1.5 8A.5.5 0 0 1 13 12H4a.5.5 0 0 1-.491-.408L2.01 3.607 1.61 2H.5a.5.5 0 0 1-.5-.5M3.102 4l1.313 7h8.17l1.313-7zM5 12a2 2 0 1 0 0 4 2 2 0 0 0 0-4m7 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4m-7 1a1 1 0 1 1 0 2 1 1 0 0 1 0-2m7 0a1 1 0 1 1 0 2 1 1 0 0 1 0-2"/>
         </svg>
         </a>
     </div>
 
     <header>
-        <img src="/img/logo.png" alt="Deskripsi gambar" width="100">
+        <img src="/img/logo.png" alt="logo" width="100">
         <h1>TUS Mart</h1>
     </header>
         <h2 class="head">
@@ -30,6 +30,7 @@
                     <h3>Produk 1</h3>
                     <p>Deskripsi produk</p>
                     <p>Rp. 100.000</p>
+                    <a href=""><button type="button" class="btn btn-outline-secondary">add</button></a>
                 </div>
 
                 <div class="produk-item">
@@ -37,6 +38,7 @@
                     <h3>Produk 1</h3>
                     <p>Deskripsi produk</p>
                     <p>Rp. 100.000</p>
+                    <a href=""><button type="button" class="btn btn-outline-secondary">add</button></a>
                 </div>
 
                 <div class="produk-item">
@@ -44,6 +46,7 @@
                     <h3>Produk 1</h3>
                     <p>Deskripsi produk</p>
                     <p>Rp. 100.000</p>
+                    <a href=""><button type="button" class="btn btn-outline-secondary">add</button></a>
                 </div>
 
                 <div class="produk-item">
@@ -51,6 +54,7 @@
                     <h3>Produk 1</h3>
                     <p>Deskripsi produk</p>
                     <p>Rp. 100.000</p>
+                    <a href=""><button type="button" class="btn btn-outline-secondary">add</button></a>
                 </div>
 
                 <div class="produk-item">
@@ -58,6 +62,7 @@
                     <h3>Produk 1</h3>
                     <p>Deskripsi produk</p>
                     <p>Rp. 100.000</p>
+                    <a href=""><button type="button" class="btn btn-outline-secondary">add</button></a>
                 </div>
             </div>
 
@@ -67,6 +72,7 @@
                     <h3>Produk 1</h3>
                     <p>Deskripsi produk</p>
                     <p>Rp. 100.000</p>
+                    <a href=""><button type="button" class="btn btn-outline-secondary">add</button></a>
                 </div>
 
                 <div class="produk-item">
@@ -74,6 +80,7 @@
                     <h3>Produk 1</h3>
                     <p>Deskripsi produk</p>
                     <p>Rp. 100.000</p>
+                    <a href=""><button type="button" class="btn btn-outline-secondary">add</button></a>
                 </div>
 
                 <div class="produk-item">
@@ -81,6 +88,7 @@
                     <h3>Produk 1</h3>
                     <p>Deskripsi produk</p>
                     <p>Rp. 100.000</p>
+                    <a href=""><button type="button" class="btn btn-outline-secondary">add</button></a>
                 </div>
 
                 <div class="produk-item">
@@ -88,6 +96,7 @@
                     <h3>Produk 1</h3>
                     <p>Deskripsi produk</p>
                     <p>Rp. 100.000</p>
+                    <a href=""><button type="button" class="btn btn-outline-secondary">add</button></a>
                 </div>
 
                 <div class="produk-item">
@@ -95,6 +104,7 @@
                     <h3>Produk 1</h3>
                     <p>Deskripsi produk</p>
                     <p>Rp. 100.000</p>
+                    <a href=""><button type="button" class="btn btn-outline-secondary">add</button></a>
                 </div>
             </div>
         </section>

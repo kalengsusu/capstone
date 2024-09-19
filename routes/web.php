@@ -6,6 +6,6 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::get('/produk', function () {
-    return view('produk');
+Route::get('/cart', function () {
+    return view('cart');
 });
