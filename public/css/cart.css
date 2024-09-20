@@ -11,12 +11,20 @@
     justify-content: space-between;
 }
 
+img {
+    /* width: 10rem; */
+    height: 5rem;
+}
+
 .produk {
     display: flex;
 }
 
-img {
-    padding-right: 50px;
+.produk button {
+    margin-left: 54rem;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-inline: 30px;
 }
 
 footer {
@@ -25,7 +33,6 @@ footer {
     display: flex;
     justify-content: space-evenly;
     padding-top: 20px;
-    position: fixed;
 }
 
 .footer {

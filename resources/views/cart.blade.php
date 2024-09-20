@@ -12,34 +12,34 @@
     <div class="container">
         <div class="card">
             <div class="produk">
-                <img src="produk1.jpg" alt="Produk 1">
-                <div>
-                    <h3>Produk 1</h3>
-                    <p>Deskripsi produk</p>
-                    <p>Rp. 100.000</p>
+                <img src="/img/silverqueen.jpg" alt="Produk 1">
+                <div class="detail">
+                    <h3>Silverqueen</h3>
+                    <p>Rp. 5.000</p>
                 </div>
+                <button type="button" class="btn btn-outline-secondary">Hapus</button>
             </div>
         </div>
 
         <div class="card">
             <div class="produk">
-                <img src="produk1.jpg" alt="Produk 1">
-                <div>
-                    <h3>Produk 1</h3>
-                    <p>Deskripsi produk</p>
-                    <p>Rp. 100.000</p>
+                <img src="/img/ultra.jpg" alt="Produk 1">
+                <div class="detail">
+                    <h3>Ultra</h3>
+                    <p>Rp. 5.000</p>
                 </div>
+                <button type="button" class="btn btn-outline-secondary">Hapus</button>
             </div>
         </div>
 
         <div class="card">
             <div class="produk">
-                <img src="produk1.jpg" alt="Produk 1">
-                <div>
-                    <h3>Produk 1</h3>
-                    <p>Deskripsi produk</p>
-                    <p>Rp. 100.000</p>
+                <img src="/img/aqua.jpg" alt="Produk 1">
+                <div class="detail">
+                    <h3>Aqua</h3>
+                    <p>Rp. 5.000</p>
                 </div>
+                <button type="button" class="btn btn-outline-secondary">Hapus</button>
             </div>
         </div>
     </div>
@@ -47,7 +47,7 @@
     <footer>
         <div class="footer">
             <h2>Total</h2>
-            <h3>Rp. 300.000</h3>
+            <h3>Rp. 15.000</h3>
         </div>
         <button type="button" class="btn btn-success btn-lg">Bayar</button>
     </footer>
