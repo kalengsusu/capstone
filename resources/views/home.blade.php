@@ -27,36 +27,36 @@
         <section class="produk">
             <div class="produk-list">
                 <div class="produk-item">
-                    <img src="produk1.jpg" alt="Produk 1">
-                    <h3>Produk 1</h3>
+                    <img src="/img/aqua.jpg" alt="Produk 1">
+                    <h3>Aqua</h3>
                     <p>Rp. 100.000</p>
                     <a href=""><button type="button" class="btn btn-outline-secondary">add</button></a>
                 </div>
 
                 <div class="produk-item">
-                    <img src="produk1.jpg" alt="Produk 1">
-                    <h3>Produk 1</h3>
+                    <img src="/img/beng-beng.jpg" alt="Produk 1">
+                    <h3>Beng-beng</h3>
                     <p>Rp. 100.000</p>
                     <a href=""><button type="button" class="btn btn-outline-secondary">add</button></a>
                 </div>
 
                 <div class="produk-item">
-                    <img src="produk1.jpg" alt="Produk 1">
-                    <h3>Produk 1</h3>
+                    <img src="/img/citos.jpg" alt="Produk 1">
+                    <h3>Cheetos</h3>
                     <p>Rp. 100.000</p>
                     <a href=""><button type="button" class="btn btn-outline-secondary">add</button></a>
                 </div>
 
                 <div class="produk-item">
-                    <img src="produk1.jpg" alt="Produk 1">
-                    <h3>Produk 1</h3>
+                    <img src="/img/silverqueen.jpg" alt="Produk 1">
+                    <h3>Silverqueen</h3>
                     <p>Rp. 100.000</p>
                     <a href=""><button type="button" class="btn btn-outline-secondary">add</button></a>
                 </div>
 
                 <div class="produk-item">
-                    <img src="produk1.jpg" alt="Produk 1">
-                    <h3>Produk 1</h3>
+                    <img src="/img/ultra.jpg" alt="Produk 1">
+                    <h3>Ultra</h3>
                     <p>Rp. 100.000</p>
                     <a href=""><button type="button" class="btn btn-outline-secondary">add</button></a>
                 </div>

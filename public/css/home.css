@@ -60,6 +60,10 @@ header {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
+img {
+    width: 70px;
+}
+
 footer {
     background-color: #333;
     color: white;
