@@ -1,75 +1,132 @@
-body {
-    font-family: Arial, sans-serif;
+*{
     margin: 0;
     padding: 0;
-}
+    /* box-sizing: border-box; */
+    list-style: none;
+    text-decoration: none;
+  }
 
-.cart {
-    background-color: #800000;
-}
-.cart svg {
-    color: rgb(222, 222, 222);
-    padding: 10px;
-    position: absolute;
-    top: 20px;
-    right: 50px;
-    width: 50px;
-    height: 50px;
-    border-radius: 10px;
-}
-
-.cart svg:hover {
-    background-color: #580000;
-}
-
-header {
-    background-color: #800000;
-    color: white;
-    padding: 10px 0;
-    text-align: center;
-}
-
-.head {
+  .wrapper{
     display: flex;
-    justify-content: center;
-    background-color: #333;
-    margin-top: 0%;
-    color: rgb(255, 255, 255);
-    padding: 20px;
-}
+  }
 
-.container {
-    padding: 20px;
-}
+  .wrapper .sidebar{
+      width: 150px;
+      height: 100%;
+      background:pink;
+      padding: 100px 0px;
+      position: fixed;
+  }
 
-.produk-list {
-    display: flex;
-    /* flex-wrap: wrap; */
-    justify-content: space-evenly;
+  .wrapper .sidebar ul li{
+      padding: 15px;
+      padding-bottom: 5px;
+      margin-right: 25px;
+      margin-top: 20px;
+      border-radius: 30px;
+  }
 
-}
+  .wrapper .sidebar ul li a{
+      color:black;
+  }
 
-.produk-item {
-    border: 1px solid #ddd;
-    padding: 20px;
-    margin: 10px;
-    margin-bottom: 20px;
-    text-align: center;
-    background-color: white;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
+  .wrapper .sidebar ul li a svg {
+      width: 30px;
+      height: 30px;
+  }
 
-img {
-    width: 70px;
-}
+  .wrapper .sidebar ul li:hover{
+    background-color: #ffc4f0;
+  }
 
-footer {
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 10px 0;
-    /* position: fixed; */
+  .wrapper .more{
     width: 100%;
-    /* bottom: 0; */
-}
+    margin-left: 170px;
+  }
+
+  .more {
+      display: flex;
+      margin: 20px;
+  }
+
+  .more a {
+      margin-inline: 10px;
+      color: black;
+      padding: 10px;
+      border-radius: 10px;
+  }
+
+  .more nav a:hover {
+      background-color: #c97c7c3f;
+  }
+
+  .more a svg {
+      width: 25px;
+      height: 25px;
+  }
+
+  .logo img {
+      width: 150px;
+  }
+  .header {
+      display: flex;
+      background-color: #ffe7e7;
+      width: 100%;
+  }
+
+  .konten {
+      margin-left: 170px;
+  }
+
+  h1 {
+      padding-top: 50px;
+      padding-left: 200px;
+      padding-bottom: 20px;
+      background-color:#ffe7e7;
+      width: 100%;
+  }
+
+  .kategori a {
+      margin-inline: 20px;
+      color: black;
+  }
+
+  .kategori-list {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+  }
+
+  h5 {
+      text-align: center;
+  }
+
+  .produk-list {
+      display: flex;
+      flex-wrap: wrap;
+  }
+
+  .produk-item {
+      width: 400px;
+      border: 1px solid #ddd;
+      padding: 20px;
+      margin: 10px;
+      margin-bottom: 20px;
+      text-align: center;
+      background-color: white;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .produk-item img {
+      width: 300px;
+  }
+
+  .produk-item a {
+      color: black;
+  }
+
+  .produk-item a svg {
+      width: 30px;
+      height: 30px;
+  }
